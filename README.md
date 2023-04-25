@@ -12,3 +12,10 @@ Technologies:  Frontend: HTML, CSS, JavaScript, and a web framework such as Flas
 Challenges:  Data collection: Collecting a diverse dataset of sign language images can be challenging, and it may require collaboration with sign language experts or organizations.  Model training: Training a logistic regression model on the dataset may require experimentation with various hyperparameters, regularization techniques, and optimization algorithms to achieve high accuracy and performance.  Deployment: Deploying the website on a cloud platform can involve configuring the server environment, handling traffic, and securing user data. 
 
 Conclusion:  The Sign Language Image Recognition Website using Logistic Regression project aims to make communication more inclusive and accessible for individuals who use sign language by providing an easy-to-use tool for gesture recognition and interpretation. The project involves frontend and backend development, database management, and cloud deployment, and it poses challenges related to data collection, model training, and deployment. The project can have significant social impact and educational value, and it can be extended to include additional features and sign languages in the future.
+
+
+
+
+
+Train and Test Dataset Link:
+Kaggle:- “https://www.kaggle.com/datasets/datamunge/sign-language-mnist”
