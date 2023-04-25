@@ -3,7 +3,8 @@ Image Classification of Sign Language using Logistic Regression
 
 
 **Title:** Sign Language Image Recognition Website using Logistic Regression  
-Objective: To develop a website that allows users to upload images of sign language gestures and receive instant recognition and interpretation of the gesture using a logistic regression model as the backend. 
+
+**Objective:** To develop a website that allows users to upload images of sign language gestures and receive instant recognition and interpretation of the gesture using a logistic regression model as the backend. 
 
 **Features:**  User registration and authentication: Users can create an account and log in to the website to access the image recognition feature.  Image upload: Users can upload an image of a sign language gesture they want to identify.  Image recognition: The uploaded image is processed by the logistic regression model to identify the sign language gesture.  Gesture interpretation: Once the gesture is identified, the website provides a text description and/or video demonstration of the meaning of the gesture.  User feedback: Users can provide feedback on the accuracy of the recognition and interpretation, which can be used to improve the model's performance over time.  
 
